@@ -1,11 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-//#include "myFunctions.c"
-//#include "myFunctions2.c"
-
-double f1(double);
-double f2(double);
+#include "myFunctions.h"
+#include "myFunctions2.h"
 
 int main() {
 	printf("SEL0456 Trabalho 1\n");
